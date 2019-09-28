@@ -1,5 +1,4 @@
 // Actvity One: Happy Sad Face
-// Author: Jesus Castaneda
 
 basic.forever(function () 
 {
