@@ -1,4 +1,4 @@
-// Actvity One: Happy Sad Face
+// Actvity One: Make Code
 
 basic.forever(function () 
 {
