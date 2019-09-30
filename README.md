@@ -92,7 +92,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[your description here, linking to the JavaScript [file](example.js)**]
+**[your description here, linking to the JavaScript [file](Activity_One.js)**]
 
 ### v0.2
 
