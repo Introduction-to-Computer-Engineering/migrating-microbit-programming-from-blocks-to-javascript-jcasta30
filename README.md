@@ -158,6 +158,7 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 ## Designs
 
 ### Midterm project
+(Link [MidtermProject_Twelve.pdf])
 
 #### Goal
 
@@ -168,7 +169,7 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 **
 1.	Brian stormed ideas for a project to make (referenced prior activities)
 2.	Chose stopwatch idea
-3.	Sketched an outline for the program
+3.	Sketched an outline for the program (Link [MidtermProject_outline.png])
 4.	Created the program on Visual Studio Code
 5.	Asked myself questions along the way. For example:
    a.	Do these code fragments belong here?
@@ -188,6 +189,7 @@ Variables: startTime || Loops: if…else || Methods: buttonAPressed, buttonBPres
 **
 
 ### Final project
+(Link [FinalProject_Twelve.pdf])
 
 #### Goal
 
@@ -198,7 +200,7 @@ Variables: startTime || Loops: if…else || Methods: buttonAPressed, buttonBPres
 **
 1.	Brian stormed ideas for a project to make (referenced prior activities)
 2.	Chose Compass idea
-3.	Sketched an outline for the program
+3.	Sketched an outline for the program (Link [FinalProject_outline.png])
 4.	Created the program on Visual Studio Code
 5.	Asked myself questions along the way. For example:
    a.	Do these code fragments belong here?
