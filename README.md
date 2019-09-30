@@ -90,7 +90,7 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### v0.1
 
-**[Make Code, linking to the JavaScript [file](Activity_One.js)**]
+**[Make Code: Displays a happy face icon, followed by a sad face icon. Linking to the JavaScript [file](Activity_One.js)**]
 
 ### v0.2
 
@@ -141,14 +141,6 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ## Designs
 
-### v0.7
-
-One sentence description of the program just committed in [new_program.js]. It does so and so....
-
-
-
-_**Note:** Add your project designs below._
-
 ### Midterm project
 
 _**Note:** Add your project designs below._
@@ -167,4 +159,15 @@ _**Note:** Add your project designs below._
 
 ### Final project
 
-**[etc.]**
+#### Goal
+
+**[your short description]**
+
+#### Design process
+
+**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+
+#### JS Constructs & objects
+
+**[which JavaScript features you used in the implementation of your project idea]**
+
