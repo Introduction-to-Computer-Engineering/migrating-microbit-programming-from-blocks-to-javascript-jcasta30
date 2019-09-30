@@ -88,15 +88,56 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ## Tags
 
-_**Note:** Add your program descriptions below._
-
 ### v0.1
 
-**[your description here, linking to the JavaScript [file](Activity_One.js)**]
+**[Make Code, linking to the JavaScript [file](Activity_One.js)**]
 
 ### v0.2
 
-**[etc.]**
+**[your description here, linking to the JavaScript [file](Activity_Two.js)**]
+
+### v0.3
+
+**[your description here, linking to the JavaScript [file](Activity_Three.js)**]
+
+### v0.4
+
+**[your description here, linking to the JavaScript [file](Activity_Four.js)**]
+
+### v0.5
+
+**[your description here, linking to the JavaScript [file](Activity_Five.js)**]
+
+### v0.6
+
+**[your description here, linking to the JavaScript [file](Activity_Six.js)**]
+
+### v0.7
+
+**[your description here, linking to the JavaScript [file](Activity_Seven.js)**]
+
+### v0.8
+
+**[your description here, linking to the JavaScript [file](Activity_Eight.js)**]
+
+### v0.9
+
+**[your description here, linking to the JavaScript [file](Activity_Nine.js)**]
+
+### v0.10
+
+**[your description here, linking to the JavaScript [file](Activity_Ten.js)**]
+**[your description here, linking to the JavaScript [file](Activity_Ten_B.js)**]
+
+### v0.11
+
+**[your description here, linking to the JavaScript [file](Activity_Elevenn.js)**]
+**[your description here, linking to the JavaScript [file](Activity_Eleven_B.js)**]
+
+### v0.12
+
+**[your description here, linking to the JavaScript [file](Activity_One.js)**]
+
 
 ## Designs
 
