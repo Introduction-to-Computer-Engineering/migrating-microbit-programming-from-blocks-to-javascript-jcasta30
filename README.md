@@ -178,14 +178,15 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 7.	After completing the program, double checked for errors such as, syntax, semantics, and other things.
 8.	Fixed any errors
 9.	Completed and final-saved the final version of the program
+
 **
 
 #### JS Constructs & objects
 
 ** 
-Variables: degrees
-Loops: While, if…else
-Methods: buttonAPressed, buttonBPressed 
+Variables: degrees ||
+Loops: While, if…else ||
+Methods: buttonAPressed, buttonBPressed ||
 Extra: Play tones, plot coordinates, show strings, calibrate compass, pauses, clear screens
 **
 
