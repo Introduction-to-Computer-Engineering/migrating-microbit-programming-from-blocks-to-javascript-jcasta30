@@ -161,6 +161,36 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 #### Goal
 
+** The goal was to construct a program that would come to benefit myself, while also limited (but not strictly) to using learned information from the previous five activities. In that sense, I chose to create a fully functional stopwatch that when active, starts counting up (while I measure the time of something). This could come in handy when doing school lab experiments, rehearsing time sensitive things, or simply when I need to use a stopwatch. **
+
+#### Design process
+
+**
+1.	Brian stormed ideas for a project to make (referenced prior activities)
+2.	Chose stopwatch idea
+3.	Sketched an outline for the program
+4.	Created the program on Visual Studio Code
+5.	Asked myself questions along the way. For example:
+   a.	Do these code fragments belong here?
+   b.	Are my variables declared and initialized?
+   c.	Do these code fragments make sense?
+6.	Inserted comments into program while making the program, and after finishing it. To organize myself.
+7.	After completing the program, double checked for errors such as, syntax, semantics, and other things.
+8.	Fixed any errors
+9.	Completed and final-saved the final version of the program
+
+**
+
+#### JS Constructs & objects
+
+** 
+
+**
+
+### Final project
+
+#### Goal
+
 ** The goal was to construct a program that would come to benefit someone in a real-life scenario. In that sense, I chose to create a fully functional compass that when active, respectively pointed East, West, North, and South, in accordance to the individual holding the compass. This could come in handy when hiking, or simply wondering in what direction something is. **
 
 #### Design process
@@ -189,18 +219,3 @@ Loops: While, if…else ||
 Methods: buttonAPressed, buttonBPressed ||
 Extra: Play tones, plot coordinates, show strings, calibrate compass, pauses, clear screens
 **
-
-### Final project
-
-#### Goal
-
-**[your short description]**
-
-#### Design process
-
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
-
-#### JS Constructs & objects
-
-**[which JavaScript features you used in the implementation of your project idea]**
-
