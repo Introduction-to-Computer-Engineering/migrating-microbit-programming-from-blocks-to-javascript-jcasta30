@@ -184,7 +184,7 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 #### JS Constructs & objects
 
 ** 
-
+Variables: startTime || Loops: if…else || Methods: buttonAPressed, buttonBPressed, buttonABPressed || Extras: Tones, Melody, display numbers, icons, math equations, counter
 **
 
 ### Final project
