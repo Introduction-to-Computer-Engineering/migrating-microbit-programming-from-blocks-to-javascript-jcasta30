@@ -95,49 +95,64 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### v0.2
 
-**[your description here, linking to the JavaScript [file](Activity_Two.js)**]
+ **  Happy Face, Sad Face: A happy face will be displayed when button A is pressed. A sad face will        be displayed when button B is pressed. 
+     Link to the JavaScript [file](Activity_Two.js)**
 
 ### v0.3
 
-**[your description here, linking to the JavaScript [file](Activity_Three.js)**]
+** Score keepper game: This program will kepp score for two players. Press button A to record a win      for player A. Press button B to record a win for player B. Press buttons A+B to record a tie.        Shake the microbit to display scores and the total rounds played.  
+   Link to the JavaScript [file](Activity_Three.js)**
 
 ### v0.4
 
-**[your description here, linking to the JavaScript [file](Activity_Four.js)**]
+** Rock, Paper, Scissors: This program will set you up to play against the microbit. Shake to begin      the game. Then, the program randomly chooses rock, paper, or scissors. Press button A to add a        point to youself. Press button B to add a point to the microbit bot. Press buttons A+B to show the    final scores.
+   Link to the JavaScript [file](Activity_Four.js)**
 
 ### v0.5
 
-**[your description here, linking to the JavaScript [file](Activity_Five.js)**]
+** Loops Demo: To start, a LED light will forever move across the entire display from left to right,    top row to bottom row. When button A is pressed: a sprite will move by 4, turn right 90              degrees, then pause for 100ms. This will repeat 4 times. When button B is pressed, five different    sounds will play in ascending order, this will repeat twice. When buttons A+B are pressed, two        different tones will play separately for 3 times. 
+   Link to the JavaScript [file](Activity_Five.js)**
 
 ### v0.6
 
-**[your description here, linking to the JavaScript [file](Activity_Six.js)**]
+**  Stop Watch: This program acts as a stop watch.
+    Link to the JavaScript [file](Midterm_MiniProject.js)**
 
 ### v0.7
 
-**[your description here, linking to the JavaScript [file](Activity_Seven.js)**]
+** Animations and Patterns: On Start, a still face will be plot. Then, the mouth will be toggled to      move up and down 10 times. Lastly, the screen will be cleared and a small heart icon will            appear, with the brightness set to 225. When button A is pressed, a random set of LED light          patterns will display. Press button B to check and display the status of the specific LED. Tilt      Left to adjust the brightness by substracting 25 to the brightness. Tilt right to adjust the          brightness by adding 25 to the brightness. Shake the microbit to clear screen and display the        brightness number. 
+   Link to the JavaScript [file](Activity_Seven.js)**
 
 ### v0.8
 
-**[your description here, linking to the JavaScript [file](Activity_Eight.js)**]
+** Double Coin flipper: Acts as a coin being flipped and randomly displays side A or B. Button A        displays the player's scores, and then resets scores to 0. 
+   Link to the JavaScript [file](Activity_Eight.js)**
 
 ### v0.9
 
-**[your description here, linking to the JavaScript [file](Activity_Nine.js)**]
+** Binary Transmogrifier: This program converts binary values into decimal. Press button A, to enter    a binary 1. Press button B, to enter a binary 0. Buttons A+B shows the decimal, and resets the        decimal and binary values.
+   Link to the JavaScript [file](Activity_Nine.js)**
 
 ### v0.10
 
-**[your description here, linking to the JavaScript [file](Activity_Ten.js)**]
-**[your description here, linking to the JavaScript [file](Activity_Ten_B.js)**]
+** Marco Polo: This program connects you with another microbit user to play the Marco Polo game.        Press A to send "Marco". Press B to send "Polo".
+   Link to the JavaScript [file](Activity_Ten.js)**
+   
+** Morse Code: This program connects you to another microbit user to communicate in morse code. Press    Button A to Radio send number 0. Press button B to Radio send number 1. Press button A+B to Radio    send number 2.
+   Link to the JavaScript [file](Activity_Ten_B.js)**
 
 ### v0.11
 
-**[your description here, linking to the JavaScript [file](Activity_Elevenn.js)**]
-**[your description here, linking to the JavaScript [file](Activity_Eleven_B.js)**]
+** Starry Night: Randomly plotted LEDs will be displayed to represent a starry night (button A). When    button B is pressed, the values of elements of the array will be displayed. 
+   Link to the JavaScript [file](Activity_Elevenn.js)**
+   
+** Headband Charades: This program will act as the famous Ellen Degeneres' game "Heads Up!". On          Screen Up, one of the stored strings will display. On Screen Down, the current value of the index    will be checked, then possibly change the value of index by 1, and indicates the end of game.
+   Link to the JavaScript [file](Activity_Eleven_B.js)**
 
 ### v0.12
 
-**[your description here, linking to the JavaScript [file](Activity_One.js)**]
+** Compass: This program acts as a compass.
+   Link to the JavaScript [file](FinalProject.js)** 
 
 
 ## Designs
