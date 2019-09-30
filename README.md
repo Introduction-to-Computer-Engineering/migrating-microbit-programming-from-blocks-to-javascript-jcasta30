@@ -167,18 +167,19 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 #### Design process
 
 **
-1.	Brian stormed ideas for a project to make (referenced prior activities)
-2.	Chose stopwatch idea
-3.	Sketched an outline for the program: [file](MidtermProject_outline.png)
-4.	Created the program on Visual Studio Code
-5.	Asked myself questions along the way. For example:
+1.	Defined the problem or goal: To construct a program that would come to benefit myself, while also limited (but not strictly) to using     learned information from the previous five activities.
+2. Brain stormed ideas for a type of project I would like to create. (Referenced prior activities)
+3.	Chose the stopwatch idea
+4.	Sketched an outline for the program: [file](MidtermProject_outline.png)
+5.	Created the program on Visual Studio Code
+6.	Asked myself questions along the way. For example:
    a.	Do these code fragments belong here?
    b.	Are my variables declared and initialized?
    c.	Do these code fragments make sense?
-6.	Inserted comments into program while making the program, and after finishing it. To organize myself.
-7.	After completing the program, double checked for errors such as, syntax, semantics, and other things.
-8.	Fixed any errors
-9.	Completed and final-saved the final version of the program
+7.	Inserted comments into program while making the program, and after finishing it. To organize myself.
+8.	After completing the program, double checked for errors such as, syntax, semantics, and other things.
+9.	Fixed any errors
+10. Completed and final-saved the final version of the program [file](Midterm_MiniProject.js)
 
 **
 
@@ -198,18 +199,19 @@ Variables: startTime || Loops: if…else || Methods: buttonAPressed, buttonBPres
 #### Design process
 
 **
-1.	Brian stormed ideas for a project to make (referenced prior activities)
-2.	Chose Compass idea
-3.	Sketched an outline for the program: [file](FinalProject_outline.png)
-4.	Created the program on Visual Studio Code
-5.	Asked myself questions along the way. For example:
+1. Defined the problem or goal: To construct a program that would come to benefit someone in a real-life scenerio, while also limited     (but not strictly) to using learned information from the previous eleven activities.
+2. Brain stormed ideas for a type of project I would like to create. (Referenced prior activities)
+3.	Chose the Compass idea
+4.	Sketched an outline for the program: [file](FinalProject_outline.png)
+5.	Created the program on Visual Studio Code
+6.	Asked myself questions along the way. For example:
    a.	Do these code fragments belong here?
    b.	Are my variables declared and initialized?
    c.	Do these code fragments make sense?
-6.	Inserted comments into program while making the program, and after finishing it. To organize myself.
-7.	After completing the program, double checked for errors such as, syntax, semantics, and other things.
-8.	Fixed any errors
-9.	Completed and final-saved the final version of the program
+7.	Inserted comments into program while making the program, and after finishing it. To organize myself.
+8.	After completing the program, double checked for errors such as, syntax, semantics, and other things.
+9.	Fixed any errors
+10. Completed and final-saved the final version of the program [file](FinalProject.js)
 
 **
 
