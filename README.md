@@ -90,7 +90,8 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### v0.1
 
-**[Make Code: Displays a happy face icon, followed by a sad face icon. Linking to the JavaScript [file](Activity_One.js)**]
+** Make Code: Displays a happy face icon, followed by a sad face icon. 
+   Link to the JavaScript [file](Activity_One.js)**
 
 ### v0.2
 
